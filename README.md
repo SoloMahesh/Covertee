@@ -1,6 +1,6 @@
 <div align="center">
 <i>Developed by: </i></br>
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/SoloMahesh/1_4C100/Developer.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/SoloMahesh/1_4C100/blob/main/Developer.png" />
 </div>
 
 ## Run Locally
